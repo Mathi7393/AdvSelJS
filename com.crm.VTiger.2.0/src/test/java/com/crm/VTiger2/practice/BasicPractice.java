@@ -17,6 +17,7 @@ public class BasicPractice {
 		System.out.println("9688603286");
 		System.out.println("mathivarman7393@gmail.com");
 		Reporter.log("9688603286", true);
+		Reporter.log("mathivarman7393@gmail.com", true);
 		
 	}
 
