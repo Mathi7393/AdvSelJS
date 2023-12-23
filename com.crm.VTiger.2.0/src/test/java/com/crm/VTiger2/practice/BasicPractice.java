@@ -15,6 +15,7 @@ public class BasicPractice {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		driver.get("https://www.youtube.com/");
 		System.out.println("9688603286");
+		System.out.println("mathivarman7393@gmail.com");
 		Reporter.log("9688603286", true);
 		
 	}
